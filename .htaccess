@@ -1,0 +1,30 @@
+# Enable Rewrite Engine
+RewriteEngine On
+RewriteBase /geodef-news/
+
+# --- SEO friendly routes ---
+# /news/asia → /pages/news-template.php?region=asia
+RewriteRule ^news/([a-zA-Z0-9_-]+)$ pages/news-template.php?region=$1 [L,QSA]
+
+# /about → /pages/about.php
+RewriteRule ^about$ pages/about.php [L,QSA]
+
+# /contact → /pages/contact.php
+RewriteRule ^contact$ pages/contact.php [L,QSA]
+
+# /sources → /pages/sources.php
+RewriteRule ^sources$ pages/sources.php [L,QSA]
+
+# /verify → /pages/verify.php
+RewriteRule ^verify$ pages/verify.php [L,QSA]
+
+# /authenticity → /pages/about-authenticity.php
+RewriteRule ^authenticity$ pages/about-authenticity.php [L,QSA]
+
+# --- Default fallback ---
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [L,QSA]
+
+# Default index files
+DirectoryIndex index.php index.html
