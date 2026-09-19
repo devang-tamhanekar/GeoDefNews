@@ -1,4 +1,3 @@
-<img width="1891" height="952" alt="Screenshot 2025-10-04 232958" src="https://github.com/user-attachments/assets/3d306c19-1ca2-449f-814a-3d2f5d0c6756" /># GeoDefNews
 GeoDef News, is a secure and dynamic web-based news aggregator focused on geopolitics and defence. 
 <img width="1898" height="698" alt="Screenshot 2025-10-04 232900" src="https://github.com/user-attachments/assets/d6223db0-87ed-4f2b-88f7-1045948cba41" />
 <img width="1891" height="952" alt="Screenshot 2025-10-04 232958" src="https://github.com/user-attachments/assets/d9f61931-371a-42c0-a4a1-2163baf46e4d" />
