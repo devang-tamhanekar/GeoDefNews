@@ -1,3 +1,4 @@
+
 GeoDefNews
 GeoDef News, is a secure and dynamic web-based news aggregator focused on geopolitics and defence. 
 <img width="1898" height="698" alt="Screenshot 2025-10-04 232900" src="https://github.com/user-attachments/assets/d6223db0-87ed-4f2b-88f7-1045948cba41" />
