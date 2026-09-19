@@ -1,6 +1,6 @@
 <img width="1891" height="952" alt="Screenshot 2025-10-04 232958" src="https://github.com/user-attachments/assets/3d306c19-1ca2-449f-814a-3d2f5d0c6756" /># GeoDefNews
 GeoDef News, is a secure and dynamic web-based news aggregator focused on geopolitics and defence. 
-![Uploading Screenshot 2025-10-04 232900.png…]()
+<img width="1898" height="698" alt="Screenshot 2025-10-04 232900" src="https://github.com/user-attachments/assets/d6223db0-87ed-4f2b-88f7-1045948cba41" />
 <img width="1891" height="952" alt="Screenshot 2025-10-04 232958" src="https://github.com/user-attachments/assets/d9f61931-371a-42c0-a4a1-2163baf46e4d" />
 <img width="1892" height="947" alt="Screenshot 2025-10-04 233034" src="https://github.com/user-attachments/assets/fab59593-8180-4576-a2f9-ed51768ceb49" />
 <img width="1895" height="819" alt="Screenshot 2025-10-04 233800" src="https://github.com/user-attachments/assets/555894f7-91fe-4ad0-8c6d-711d5484986a" />
